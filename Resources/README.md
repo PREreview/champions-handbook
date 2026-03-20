@@ -39,7 +39,7 @@ All of our resources are openly available for download on Zenodo under a CC BY 4
 ## Templates
 Below, you can find the links to templates for the Open Reviewers workshop. These will be updated over time. Whenever using these templates, please make a copy to work from, rather than editing the template itself. Feel free to adapt these templates and the content to your audience. 
 
-[About PREreview](https://docs.google.com/presentation/d/1KZYebi-k4gdhmRcBL7KlX1EIsYQVhdphhPNfzvr2OD4/edit?slide=id.g33622dbf8ec_1_3#slide=id.g33622dbf8ec_1_3)
+[About PREreview](https://docs.google.com/presentation/d/1V34VTr_LJjF54mNrQM4GX-AYu1hMA1a2rP9aGGhjp8g/edit?usp=drive_link)
 
 [2-hour Open Reviewers workshop](https://drive.google.com/drive/folders/1NrSmGWZeKyCw0QGC9jIuS_z_ZCHpIQjX?usp=drive_link)
 
