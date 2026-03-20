@@ -1,7 +1,7 @@
 
 # Resources
 
-Below you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities. 
+Below and in the folders of this directory you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities. 
 
 ## Branding
 Here you can find the [PREreview Style Guide](https://docs.google.com/document/d/1rd87SxetKbyZvSLdn-cTcQGOJMwDgugcngaPSs09m2c/edit?tab=t.0#heading=h.s1vdxhu8ko0c). Please follow these guidelines whenever possible on communications, presentations, publications, and resources.
