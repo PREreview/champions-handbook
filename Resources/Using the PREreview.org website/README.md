@@ -65,5 +65,6 @@ Our colleague Chad has recorded a [demo of the PREreview.org review workflow](ht
 
 Read more about [how to use PREreview.org](https://prereview.org/how-to-use). 
 
+![](https://github.com/PREreview/champions-handbook/blob/main/images/how-prereview-works-1.png)
 
 
