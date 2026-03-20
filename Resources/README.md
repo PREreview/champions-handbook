@@ -24,5 +24,18 @@ This stand-alone introductory workshop focuses on the basics of open, preprint p
 These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together
 We hope that after your Champions Program training, you feel adequately equipped to provide Open Reviewers training to others within your community. We list a number of resources below to help you in doing so. Please let us know if you plan on running an Open Reviewers training workshop or another relevant event for your community, and we would be happy to help you with promotion if desired.
 
+----
+# The Open Reviewers Toolkit
+With a focus on promoting equity, diversity, and inclusion, the [Open Reviewers Workshop](https://prereview.org/trainings) is designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. The Open Reviewers Toolkit comprises three guides to help with the unbiased composition and assessment of research manuscripts:
+
+-The **Bias Reflection Guide** is a tool to help a reviewer assess their own biases, guiding them through a non-judgmental, self-reflective process. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484051), [español](https://doi.org/10.5281/zenodo.14845399), and [português brasileiro](https://doi.org/10.5281/zenodo.17153256))
+
+-The **Reviewer Guide** is for anyone reviewing a research manuscript. It provides a comprehensive, step-by-step framework for the reviewer to use while they are composing a review. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484086), [español](https://doi.org/10.5281/zenodo.14825399), and [português brasileiro](https://doi.org/10.5281/zenodo.15496850))
+
+-The **Review Assessment Rubric** is for anyone evaluating a research manuscript’s review. The rubric comprises 10 statements for which the evaluator is asked to provide a score and a written comment to help improve the review. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484071), [español](https://doi.org/10.5281/zenodo.14845534) and [português brasileiro](https://doi.org/10.5281/zenodo.17153270))
+
+All of our resources are openly available for download on Zenodo under a CC BY 4.0 license.
+
+
 
 
