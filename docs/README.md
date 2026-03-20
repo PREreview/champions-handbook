@@ -84,3 +84,13 @@ To ensure you feel fully supported and valued in your role, we provide the follo
 - Being included in a supportive community of individuals who share your vision for a more open and equitable scholarly communication landscape.    
 
 This list is not exhaustive. If you ever find that you have any questions or require assistance, you can always contact us, and we are happy to provide you with whatever support we can. Read on to find a list of resources and useful links to help you in your PREreview activities. 
+
+----
+# The PREreview Champions Mentor Program 
+
+Each 2026 PREreview Champion has been matched with a volunteer Mentor –someone who successfully completed this program in the past. Your mentor will help you discover and answer the questions you need to address to imagine, design, build, and facilitate your final activity or project.
+You and your Mentor will have an introductory meeting and three check-in meetings about your activity or project once you complete training, as well as a debrief meeting at the end of the program.   
+
+You may also use email or Slack (or another preferred method) to communicate asynchronously with your Mentor throughout the program. You will be able to offer feedback via a survey at the end of the program.   
+
+If an issue comes up sooner than that, or you need some kind of help, reach out to chad@prereview.org or to report@prereview.org for Code of Conduct issues.
