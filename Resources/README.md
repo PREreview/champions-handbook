@@ -1,1 +1,28 @@
 
+# Resources
+
+Below you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities. 
+
+----
+# Branding
+Here you can find the [PREreview Style Guide](https://docs.google.com/document/d/1rd87SxetKbyZvSLdn-cTcQGOJMwDgugcngaPSs09m2c/edit?tab=t.0#heading=h.s1vdxhu8ko0c).. Please follow these guidelines whenever possible on communications, presentations, publications, and resources.
+If you have any questions or need any help styling anything, please contact our Communications and Engagement Officer, Pia Tavella, at pia@prereview.org or post in the [#PREreview Champions 2026 channel](https://prereviewcommunity.slack.com/archives/C0A8747507J) of our Community Slack instance.
+
+----
+# PREreview Champions Program Badge
+Due to changes in the software we use for issuing badges, this section will be updated with guidance on how to claim your PREreview Champions badge soon. 
+
+----
+# Workshops & Events
+Peer review plays a pivotal role in determining which research projects receive funding, which findings get published, and ultimately, which knowledge is disseminated and utilized by the scientific community and the broader public. Despite its critical importance, reviewers often undergo minimal training for this crucial task. Furthermore, that training rarely focuses on mitigating the biases that are ingrained in the peer review process. Hence, new generations of reviewers often lack the frameworks to address their biases, leading to a perpetuation of the current inequities in scholarly publishing.
+The Open Reviewers Workshop is an interactive and hands-on training program designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. With a focus on promoting equity, diversity, and inclusion, the workshop provides participants with the necessary skills and knowledge to conduct constructive peer review with the use of materials from the [Open Reviewers Toolkit](https://prereview.org/resources).
+
+## 2-hour workshop
+This stand-alone introductory workshop focuses on the basics of open, preprint peer review and becoming aware of biases present in the scholarly publication process.
+
+## Multi-session workshops
+These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together
+We hope that after your Champions Program training, you feel adequately equipped to provide Open Reviewers training to others within your community. We list a number of resources below to help you in doing so. Please let us know if you plan on running an Open Reviewers training workshop or another relevant event for your community, and we would be happy to help you with promotion if desired.
+
+
+
