@@ -68,7 +68,7 @@ Facilitation & Events:
  - [Makled, Laila R. (2023). The basics of an impactful agenda: structure & timing](https://outtherecommunication.net/blog/the-basics-of-an-impactful-agenda-structure-and-timing)
  - [The Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual)
  - [CSCCE. Organizing Community Events](https://www.cscce.org/resources/organizing-community-events/)
- - [The Carpentries. Recommendations for Teaching Carpentries Workshops Online[]()](https://carpentries.org/online-workshop-recommendations/)
+ - [The Carpentries. Recommendations for Teaching Carpentries Workshops Online](https://carpentries.org/online-workshop-recommendations/)
  - [Delipalta, A., & Herterich, P. (2021). Planning hybrid events](https://doi.org/10.5281/zenodo.5541669)
 
 DEIA: 
