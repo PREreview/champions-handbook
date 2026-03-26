@@ -1,5 +1,3 @@
-_not finished_
-
 # Using the PREreview.org website
 
 [PREreview.org](http://PREreview.org) is the home of open, preprint reviews. At PREreview, we aim to establish a researcher-driven, participatory peer-review workflow, emphasizing the evaluation of expertise based on the quality of reviews rather than the identity of the reviewer or the prestige of their affiliated research institution. We are creating a future in which every researcher is empowered with the skills to recognize and fight bias, and is welcomed into a peer review culture where constructive feedback is expected and rewarded.
@@ -16,39 +14,37 @@ You can also visit [Sciety](https://sciety.org/) to find curated lists of prepri
 
 Currently supported preprint servers:
 
-_add links_
-
-  - Advance
-  - AfricArXiv
-  - Arcadia Science Pubs
-  - arXiv
-  - Authorea
-  - bioRxiv
-  - ChemRxiv
-  - Curvenote
-  - Dryad (for dataset reviews)
-  - EarthArXiv
-  - EcoEvoRxiv
-  - EdArXiv
-  - engrXiv
-  - Jxiv
-  - Lifecycle Journal
-  - medRxiv
-  - MetaArXiv
-  - NeuroLibre
-  - OSF
-  - PhilSci-Archive
-  - Preprints.org
-  - PsyArXiv
-  - PsychArchives
-  - Research Square
-  - SciELO
-  - ScienceOpen
-  - SocArXiv
-  - SSRN
-  - TechRxiv
-  - VeriXiv
-  - Zenodo
+  - [Advance](https://advance.sagepub.com/)
+  - [AfricArXiv](https://info.africarxiv.org/)
+  - [Arcadia Science Pubs](https://research.arcadiascience.com/all-pubs)
+  - [arXiv](https://arxiv.org/)
+  - [Authorea](https://www.authorea.com/)
+  - [bioRxiv](https://www.biorxiv.org/)
+  - [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard)
+  - [Curvenote](https://curvenote.dev/articles)
+  - [Dryad (for dataset reviews)](https://datadryad.org/)
+  - [EarthArXiv](https://eartharxiv.org/)
+  - [EcoEvoRxiv](https://ecoevorxiv.org/)
+  - [EdArXiv](https://edarxiv.org/)
+  - [engrXiv](https://engrxiv.org/)
+  - [Jxiv](https://jxiv.jst.go.jp/)
+  - [Lifecycle Journal](https://lifecyclejournal.org/)
+  - [medRxiv](https://www.medrxiv.org/)
+  - [MetaArXiv](https://osf.io/preprints/metaarxiv/)
+  - [NeuroLibre](https://neurolibre.org/)
+  - [OSF](https://osf.io/preprints/)
+  - [PhilSci-Archive](https://philsci-archive.pitt.edu/)
+  - [Preprints.org](https://www.preprints.org/)
+  - [PsyArXiv](https://psyarxiv.com/)
+  - [PsychArchives](https://psycharchives.org/)
+  - [Research Square](https://www.researchsquare.com/)
+  - [SciELO](https://www.scielo.org/)
+  - [ScienceOpen](https://www.scienceopen.com/)
+  - [SocArXiv](https://osf.io/preprints/socarxiv)
+  - [SSRN](https://www.ssrn.com/)
+  - [TechRxiv](https://www.techrxiv.org/)
+  - [VeriXiv](https://verixiv.org/)
+  - [Zenodo](https://zenodo.org/)
 
 If you or someone in your community uses a preprint server that is not listed and you would like PREreview.org to support this, please let us know at help@prereview.org.
 
