@@ -1,5 +1,3 @@
-NOT FINISHED 
-
 # About PREreview
 
 ## Our Mission
