@@ -47,8 +47,7 @@ PREreview operates as a non-profit as a fiscally sponsored project of [Code for 
  - You can also follow us on social media on [LinkedIn](https://www.linkedin.com/company/prereview), [Mastodon](https://mas.to/@prereview), and [BlueSky](https://bsky.app/profile/prereview.bsky.social), and subscribe to our [YouTube channel](https://youtube.com/@prereview7336?si=9UNLkwwYjz7KLlA5). 
 
 ## Shared Resources - More coming soon!
-ASK
-Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. 
+Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. You can send them to **champions@prereview.org** and we'll add them in this section.
 
 Peer Review:
 
