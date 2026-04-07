@@ -1,0 +1,55 @@
+# Resources
+
+Below and in the folders of this directory you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities. 
+
+## Branding
+Here you can find the [PREreview Style Guide](https://docs.google.com/document/d/1rd87SxetKbyZvSLdn-cTcQGOJMwDgugcngaPSs09m2c/edit?tab=t.0#heading=h.s1vdxhu8ko0c). Please follow these guidelines whenever possible on communications, presentations, publications, and resources.
+If you have any questions or need any help styling anything, please contact our Communications and Engagement Officer, Pia Tavella, at pia@prereview.org or post in the [#PREreview Champions 2026 channel](https://prereviewcommunity.slack.com/archives/C0A8747507J) of our Community Slack instance.
+
+
+## PREreview Champions Program Badge
+Due to changes in the software we use for issuing badges, this section will be updated with guidance on how to claim your PREreview Champions badge soon. 
+
+
+## Workshops & Events
+Peer review plays a pivotal role in determining which research projects receive funding, which findings get published, and ultimately, which knowledge is disseminated and utilized by the scientific community and the broader public. Despite its critical importance, reviewers often undergo minimal training for this crucial task. Furthermore, that training rarely focuses on mitigating the biases that are ingrained in the peer review process. Hence, new generations of reviewers often lack the frameworks to address their biases, leading to a perpetuation of the current inequities in scholarly publishing.
+The Open Reviewers Workshop is an interactive and hands-on training program designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. With a focus on promoting equity, diversity, and inclusion, the workshop provides participants with the necessary skills and knowledge to conduct constructive peer review with the use of materials from the [Open Reviewers Toolkit](https://prereview.org/resources).
+
+### 2-hour workshop
+This stand-alone introductory workshop focuses on the basics of open, preprint peer review and becoming aware of biases present in the scholarly publication process.
+
+### Multi-session workshops
+These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together
+We hope that after your Champions Program training, you feel adequately equipped to provide Open Reviewers training to others within your community. We list a number of resources below to help you in doing so. Please let us know if you plan on running an Open Reviewers training workshop or another relevant event for your community, and we would be happy to help you with promotion if desired.
+
+----
+## The Open Reviewers Toolkit
+With a focus on promoting equity, diversity, and inclusion, the [Open Reviewers Workshop](https://prereview.org/trainings) is designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. The Open Reviewers Toolkit comprises three guides to help with the unbiased composition and assessment of research manuscripts:
+
+-The **Bias Reflection Guide** is a tool to help a reviewer assess their own biases, guiding them through a non-judgmental, self-reflective process. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484051), [español](https://doi.org/10.5281/zenodo.14845399), and [português brasileiro](https://doi.org/10.5281/zenodo.17153256))
+
+-The **Reviewer Guide** is for anyone reviewing a research manuscript. It provides a comprehensive, step-by-step framework for the reviewer to use while they are composing a review. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484086), [español](https://doi.org/10.5281/zenodo.14825399), and [português brasileiro](https://doi.org/10.5281/zenodo.15496850))
+
+-The **Review Assessment Rubric** is for anyone evaluating a research manuscript’s review. The rubric comprises 10 statements for which the evaluator is asked to provide a score and a written comment to help improve the review. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484071), [español](https://doi.org/10.5281/zenodo.14845534) and [português brasileiro](https://doi.org/10.5281/zenodo.17153270))
+
+All of our resources are openly available for download on Zenodo under a CC BY 4.0 license.
+
+----
+## Templates
+Below, you can find the links to templates for the Open Reviewers workshop. These will be updated over time. Whenever using these templates, please make a copy to work from, rather than editing the template itself. Feel free to adapt these templates and the content to your audience. 
+
+[About PREreview](https://docs.google.com/presentation/d/1V34VTr_LJjF54mNrQM4GX-AYu1hMA1a2rP9aGGhjp8g/edit?usp=drive_link)
+
+[2-hour Open Reviewers workshop](https://drive.google.com/drive/folders/1NrSmGWZeKyCw0QGC9jIuS_z_ZCHpIQjX?usp=drive_link)
+
+[6-hour full Open Reviewers workshop](https://drive.google.com/drive/folders/1qsL34w-Z8BoEI01tWi4KOGUH2HeZT27M?usp=drive_link) 
+
+  - [Module 1 templates](https://drive.google.com/drive/folders/1sxHEps9X2uSi0nMoZwfJ51MKQGAf73pc?usp=drive_link)
+  
+  - [Module 2 templates](https://drive.google.com/drive/folders/1xXjUvUAYm6y9VQK1lIah7QQ6LyP1MrIO?usp=drive_link)
+  
+  - [Module 3: Live Review templates](https://drive.google.com/drive/folders/1lucoGv7bMZ3ZitQpD-r6fEc_8p9SBdwl?usp=drive_link)
+  
+[Survey templates](https://drive.google.com/drive/folders/1jOSJUDvFo87ZIFkE2XH2eZL3Niz0G2H2?usp=drive_link) (in Google Forms)
+
+[Social media promotion template](https://www.canva.com/design/DAG_innxVlE/XFmJIqlN8vaMzml_Xy7L9g/view?utm_content=DAG_innxVlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (in Canva)
