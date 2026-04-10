@@ -1,6 +1,8 @@
 # Resources
 
-Below and in the folders of this directory you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities. 
+Here you can find a list of resources to help you in your Champions Program engagement activities. We will keep these updated regularly, so you know that you can trust the information that you share with those in your communities.
+
+All of our resources are openly available for download on Zenodo under a CC BY 4.0 license.
 
 ## Branding
 Here you can find the [PREreview Style Guide](https://docs.google.com/document/d/1rd87SxetKbyZvSLdn-cTcQGOJMwDgugcngaPSs09m2c/edit?tab=t.0#heading=h.s1vdxhu8ko0c). Please follow these guidelines whenever possible on communications, presentations, publications, and resources.
@@ -24,7 +26,7 @@ We hope that after your Champions Program training, you feel adequately equipped
 
 ----
 ## The Open Reviewers Toolkit
-With a focus on promoting equity, diversity, and inclusion, the [Open Reviewers Workshop](https://prereview.org/trainings) is designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. The Open Reviewers Toolkit comprises three guides to help with the unbiased composition and assessment of research manuscripts:
+With a focus on promoting equity, diversity, and inclusion, the [Open Reviewers Workshop](https://prereview.org/trainings) is designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. The Open Reviewers Toolkit comprises three **freely available and openly licensed guides guides** to help guide the socially-conscious and constructive composition and assessment of research manuscripts:
 
 -The **Bias Reflection Guide** is a tool to help a reviewer assess their own biases, guiding them through a non-judgmental, self-reflective process. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484051), [español](https://doi.org/10.5281/zenodo.14845399), and [português brasileiro](https://doi.org/10.5281/zenodo.17153256))
 
@@ -32,7 +34,7 @@ With a focus on promoting equity, diversity, and inclusion, the [Open Reviewers 
 
 -The **Review Assessment Rubric** is for anyone evaluating a research manuscript’s review. The rubric comprises 10 statements for which the evaluator is asked to provide a score and a written comment to help improve the review. (Available in [English (original)](https://doi.org/10.5281/zenodo.5484071), [español](https://doi.org/10.5281/zenodo.14845534) and [português brasileiro](https://doi.org/10.5281/zenodo.17153270))
 
-All of our resources are openly available for download on Zenodo under a CC BY 4.0 license.
+
 
 ----
 ## Templates
