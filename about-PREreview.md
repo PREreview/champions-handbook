@@ -2,11 +2,17 @@
 
 ## Mission
 PREreview's mission is to bring more equity and transparency to scholarly peer review by supporting and empowering communities of researchers, particularly those at early stages of their career (ECRs) and historically excluded, to review preprints in a process that is rewarding to them.  
+
 **In 2017, we founded PREreview because we believe science and scholarship should be equitable, transparent, and collaborative.**
+
 PREreview gives systematically disadvantaged scientists better ways to find a voice, train, and engage in peer review. Our work is a direct response to the flawed way scientific research is evaluated. Behind closed doors, a handful of unpaid reviewers—selected opaquely and mainly through personal connections—use subjective criteria to decide the fate of a research article. This arcane process is slow and disadvantages researchers from historically excluded groups.
+
 PREreview closes obvious gaps in the process to make research and how it's evaluated more equitable. We train researchers in giving and receiving feedback, we engage communities of marginalized researchers, and we implement measures to reflect on personal bias.
+
 In taking these vital steps, PREreview envisions a future in which every researcher is empowered with the skills to recognize and fight bias, and is welcomed into a peer review culture where constructive feedback is expected and rewarded.
+
 **Our values** are integral to how and why we do this work. As a part of our commitment to transparency and equity, we share our values below.
+
 Read more about our commitment to Equity, Diversity, and Inclusion [here](https://prereview.org/edia-statement).
 
 ## Values
