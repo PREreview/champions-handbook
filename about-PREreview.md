@@ -19,14 +19,14 @@ Commitments to equity must be accompanied by data and action. We set our equity 
 
 ## Our Team
 
-<img src="https://github.com/PREreview/champions-handbook/blob/main/images/prereview%20team%20and%20AC.png" width="600" height="600">
+<img src="https://github.com/PREreview/champions-handbook/blob/36cbde48c7868e5efbda724a2e08aa568fe0cf8d/images/PREreview%20Team%20and%20AC%202026.png" width="820" height="820">
 
 
 Our core team is currently composed of five full-time employees: Daniela Saderi, Executive Director & Co-Founder, Chad Sansing, Head of Product, Vanessa Fairhurst, Head of Community, Chris Wilkinson, Head of Technology, and Pia Tavella, Communications and Engagement Officer. 
 
-While our Head of Community, Vanessa, is on parental leave, we also have María Sol Ruiz joining the PREreview Team in a part-time capacity to provide support, particularly with the Champions Program. Please contact Sol (champions@prereview.org) for any questions related to the program that you are unable to find the answer to here or with your mentor or Champions cohort. 
+We receive technical support from Daniel Haarhoff, Software Engineer at eLife, as part of an ongoing contract and collaboration between PREreview and eLife. While our Head of Community, Vanessa, is on parental leave, we also have María Sol Ruiz joining the PREreview Team in a part-time capacity to provide support, particularly with the Champions Program. Please contact Sol (champions@prereview.org) for any questions related to the program that you are unable to find the answer to here or with your mentor or Champions cohort. 
 
-We also rely on the wise advice and support of an Advisory Committee (AC), which currently includes Monica Granados (PREreview co-founder, AC Co-chair), Samantha Hindle (PREreview co-founder, AC Secretary), Christopher Steven Marcum, Aurelia Munene, and Kristen Ratan.
+We also rely on the wise advice and support of an Advisory Committee (AC), which currently includes Monica Granados (PREreview co-founder, AC Co-chair), Samantha Hindle (PREreview co-founder, AC Secretary), Christopher Steven Marcum, Aurelia Munene, Lamis Yahia Elkheir, Malvika Sharan and Kirstie Whitaker.
 Full bios can be found on our [webpage](https://prereview.org/people)
 
 ## How we are supported
