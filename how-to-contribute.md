@@ -1,5 +1,5 @@
 # Ways to Contribute to the Champions GitHub
-There are two ways to contribute to the Champions GitHub.
+There are three major ways to contribute to the Champions GitHub.
 
 - Suggest a change, addition, or deletion to what is already on the GitHub using [Issues](https://github.com/PREreview/champions-handbook/issues).  
      - Before submitting a new issue, check to make sure a similar issue isn't already open. If one is, contribute to that issue thread with your feedback.
@@ -9,4 +9,6 @@ There are two ways to contribute to the Champions GitHub.
      - by reporting bugs
      - by suggesting new features
      - by translating content to a new language
+ 
+- Please feel free to contribute to the [Shared Resources](https://github.com/PREreview/champions-handbook/blob/main/Resources/shared-resources.md) list with links you think would be useful to your fellow Champions. You can send them to champions@prereview.org and we'll add them to that section.
 
