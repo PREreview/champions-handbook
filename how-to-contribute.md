@@ -10,5 +10,5 @@ There are three major ways to contribute to the Champions GitHub.
      - by suggesting new features
      - by translating content to a new language
  
-- Please feel free to contribute to the [Shared Resources](https://github.com/PREreview/champions-handbook/blob/main/Resources/shared-resources.md) list with links you think would be useful to your fellow Champions. You can send them to champions@prereview.org and we'll add them to that section.
+- You can send us your feedback and contributions to champions@prereview.org.
 
