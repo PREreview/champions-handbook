@@ -63,35 +63,6 @@ PREreview operates as a non-profit as a fiscally sponsored project of [Code for 
  - Sign up for our [bi-monthly newsletter](https://bit.ly/PREreview-newsletter) to be kept in the loop about our big developments and opportunities.
  - You can also follow us on social media on [LinkedIn](https://www.linkedin.com/company/prereview), [Mastodon](https://mas.to/@prereview), and [BlueSky](https://bsky.app/profile/prereview.bsky.social), and subscribe to our [YouTube channel](https://youtube.com/@prereview7336?si=9UNLkwwYjz7KLlA5). 
 
-## Shared Resources - More coming soon!
-Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. You can send them to **champions@prereview.org** and we'll add them in this section.
-
-Peer Review:
-
- - [PLOS Peer Review Center](https://plos.org/resources/for-reviewers/)(https://plos.org/resources/for-reviewers/)
- - [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)(https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
- - [‘Editorial Peer Reviewers as Shepherds, Rather Than Gatekeepers’](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4319)
- - [Okune, Angela. (2019). Self-Review of Citational Practice. Zenodo](https://doi.org/10.5281/zenodo.3066861)
-
-Facilitation & Events:
-
- - [Open Peer Reviewers in Africa Workshop Trainer Guide](https://doi.org/10.5281/zenodo.7534278)
- - [Sansing, Chad. (2020). 5 Tips For Designing Engaging, Inclusive Sessions](https://foundation.mozilla.org/en/blog/5-tips-designing-engaging-inclusive-sessions/)
- - [Aurora, Valerie, and Gardiner, Mary. How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
- - [Ahenkorah, Elise (2020). “Safe and Brave Spaces Don’t Work (and What You Can Do Instead)”](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
- - [Harvard. Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246)
- - [Makled, Laila R. (2023). Impactful Gathering and Facilitation Resource Guide](https://outtherecommunication.net/blog/eventplanningworkbook)
- - [Makled, Laila R. (2023). The basics of an impactful agenda: structure & timing](https://outtherecommunication.net/blog/the-basics-of-an-impactful-agenda-structure-and-timing)
- - [The Open Organization Leaders Manual](https://opensource.com/open-organization/resources/leaders-manual)
- - [CSCCE. Organizing Community Events](https://www.cscce.org/resources/organizing-community-events/)
- - [The Carpentries. Recommendations for Teaching Carpentries Workshops Online](https://docs.carpentries.org/resources/workshops/resources_for_online_workshops.html)
- - [Delipalta, A., & Herterich, P. (2021). Planning hybrid events](https://doi.org/10.5281/zenodo.5541669)
-
-DEIA: 
-
- - [DEIA and Doing the Right Thing](https://scholarlykitchen.sspnet.org/2025/02/11/deia-and-doing-the-right-thing)
- - [Open Science and Open Source only with Diversity, Equity, Inclusion, and Accessibility](https://ropensci.org/blog/2025/02/05/no-science-without-deia)
- - [C4 DISC Toolkits for Equity](https://c4disc.org/toolkits-for-equity)
 
 
 
