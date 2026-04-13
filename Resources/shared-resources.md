@@ -1,5 +1,5 @@
 ## Shared Resources - More coming soon!
-Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. You can send them to **champions@prereview.org** and we'll add them in this section.
+Please feel free to contribute to this list with links to other resources you think would be useful to your fellow Champions. Check our [Contributors](https://github.com/PREreview/champions-handbook/blob/main/how-to-contribute.md) section for more details.
 
 Peer Review:
 
