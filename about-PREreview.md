@@ -11,7 +11,7 @@ PREreview closes obvious gaps in the process to make research and how it's evalu
 
 In taking these vital steps, PREreview envisions a future in which every researcher is empowered with the skills to recognize and fight bias, and is welcomed into a peer review culture where constructive feedback is expected and rewarded.
 
-**Our values** are integral to how and why we do this work. As a part of our commitment to transparency and equity, we share our values below.
+**Our values** are integral to *how* and *why* we do this work. As a part of our commitment to transparency and equity, we share our values below.
 
 Read more about our commitment to Equity, Diversity, and Inclusion [here](https://prereview.org/edia-statement).
 
