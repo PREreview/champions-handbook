@@ -44,7 +44,7 @@ Currently supported preprint servers:
   - [SocArXiv](https://osf.io/preprints/socarxiv)
   - [SSRN](https://www.ssrn.com/)
   - [TechRxiv](https://www.techrxiv.org/)
-  - [UMSIDA Preprints Server] (https://archive.umsida.ac.id/index.php/archive)
+  - [UMSIDA Preprints Server](https://archive.umsida.ac.id/index.php/archive)
   - [VeriXiv](https://verixiv.org/)
   - [Zenodo](https://zenodo.org/)
 
