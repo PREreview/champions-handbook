@@ -35,7 +35,16 @@ This stand-alone introductory workshop focuses on the basics of open, preprint p
  - An introduction to strategies to self-assess and mitigate bias in the context of manuscript review
 
 ### Multi-session workshops
-These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together
+These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together.
+
+**Learning Objectives:**
+
+ - A general understanding of journal-organized and independent review processes
+ - A detailed understanding of how systems of oppression manifest in the manuscript review process
+ - Strategies to self-assess and mitigate bias in the context of manuscript review
+ - An in-depth understanding of and practical experience with peer reviewing a manuscript in a way that minimizes bias, striving for constructive, clear, and actionable feedback
+ - An opportunity to put learning into practice by collaboratively reviewing a preprint and publishing the resulting preprint review on PREreview.org
+   
 We hope that after your Champions Program training, you feel adequately equipped to provide Open Reviewers training to others within your community. We list a number of resources below to help you in doing so. Please let us know if you plan on running an Open Reviewers training workshop or another relevant event for your community, and we would be happy to help you with promotion if desired.
 
 ----
