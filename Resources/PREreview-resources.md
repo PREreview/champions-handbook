@@ -78,3 +78,5 @@ Below, you can find the links to templates for the Open Reviewers workshop. Thes
 [Survey templates](https://drive.google.com/drive/folders/1jOSJUDvFo87ZIFkE2XH2eZL3Niz0G2H2?usp=drive_link) (in Google Forms)
 
 [Social media promotion template](https://www.canva.com/design/DAG_innxVlE/XFmJIqlN8vaMzml_Xy7L9g/view?utm_content=DAG_innxVlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (in Canva)
+
+[Full PREreview publication workflow](https://www.youtube.com/watch?v=nXjeOWofbGw)
