@@ -28,6 +28,12 @@ The Open Reviewers Workshop is an interactive and hands-on training program desi
 ### 2-hour workshop
 This stand-alone introductory workshop focuses on the basics of open, preprint peer review and becoming aware of biases present in the scholarly publication process.
 
+**Learning Objectives:**
+
+ - A general understanding of journal-organized and independent review processes
+ - An introduction to how systems of oppression manifest in the manuscript review process
+ - An introduction to strategies to self-assess and mitigate bias in the context of manuscript review
+
 ### Multi-session workshops
 These multi-session trainings run for  4-6 hours and offer greater opportunities for practical review experience following a structured approach to writing a review, keeping issues of bias and systemic oppression front of mind. These workshops culminate in a [Live Review session](https://prereview.org/live-reviews) facilitated by PREreview staff, where participants select and review a preprint together
 We hope that after your Champions Program training, you feel adequately equipped to provide Open Reviewers training to others within your community. We list a number of resources below to help you in doing so. Please let us know if you plan on running an Open Reviewers training workshop or another relevant event for your community, and we would be happy to help you with promotion if desired.
