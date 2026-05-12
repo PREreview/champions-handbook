@@ -79,4 +79,4 @@ Below, you can find the links to templates for the Open Reviewers workshop. Thes
 
 [Social media promotion template](https://www.canva.com/design/DAG_innxVlE/XFmJIqlN8vaMzml_Xy7L9g/view?utm_content=DAG_innxVlE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview) (in Canva)
 
-[Full PREreview publication workflow](https://www.youtube.com/watch?v=nXjeOWofbGw)
+
