@@ -13,7 +13,16 @@ If you have any questions or need any help styling anything, please contact our 
 To claim your Open Reviewer badge, you will need to create a [Badgecraft](https://www.badgecraft.eu/) account. After verification, your PREreview badges will appear in your badge wallet. You can then share your badge through a link in Linkedin, social media (please do tag us) or on your own personal website. At the end of the Champions program, after you complete your activities, you will receive the PREreview Champions badge.
 
 ## Workshops & Events
-Peer review plays a pivotal role in determining which research projects receive funding, which findings get published, and ultimately, which knowledge is disseminated and utilized by the scientific community and the broader public. Despite its critical importance, reviewers often undergo minimal training for this crucial task. Furthermore, that training rarely focuses on mitigating the biases that are ingrained in the peer review process. Hence, new generations of reviewers often lack the frameworks to address their biases, leading to a perpetuation of the current inequities in scholarly publishing.
+Peer review plays a pivotal role in determining which research projects receive funding, which findings get published, and ultimately, which knowledge is disseminated and utilized by the scientific community and the broader public. Despite its critical importance, reviewers often undergo minimal training for this crucial task. Furthermore, that training rarely focuses on mitigating the biases that are ingrained in the peer review process. Hence, new generations of reviewers often lack the frameworks to address their biases, leading to a perpetuation of the current inequities in scholarly publishing. At PREreview we offer two kinds of peer review training workshops centered on issues of equity, diversity, and inclusion: **PREreview Open Reviewers**, focused on research manuscripts’ review, and **PREreview Open Grant Reviewers**, focused on grant applications’ review.
+
+We work with organizations, institutions, and funding agencies that want to offer their communities the opportunity to challenge their beliefs and learn from one another how to recognize and mitigate the impact of bias in research evaluation.
+
+Our workshops are designed for safe and inclusive delivery - both online and in-person - by providing clear guidelines ahead of time and by accommodating participants’ different communication and participation styles. Our content is intentionally interactive and is presented to participants using collaborative note-taking and other supporting tools, such as Mentimeter. Contact us at community@prereview.org to discuss which type of workshop is best for your organization and options for tailoring our workshop content for your organization’s needs.
+
+Note: we also run 2-hour community workshops every quarter of the year which are open to individual sign-ups. Read below for more information on the next available workshop and how to register.
+
+### PREreview Open Reviewers
+
 The Open Reviewers Workshop is an interactive and hands-on training program designed for researchers at all career levels who are interested in engaging in ethical and constructive manuscript peer review. With a focus on promoting equity, diversity, and inclusion, the workshop provides participants with the necessary skills and knowledge to conduct constructive peer review with the use of materials from the [Open Reviewers Toolkit](https://prereview.org/resources).
 
 ### 2-hour workshop
