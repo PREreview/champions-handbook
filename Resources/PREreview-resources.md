@@ -10,8 +10,7 @@ If you have any questions or need any help styling anything, please contact our 
 
 
 ## PREreview Champions Program Badge
-Due to changes in the software we use for issuing badges, this section will be updated with guidance on how to claim your PREreview Champions badge soon. 
-
+To claim your Open Reviewer badge, you will need to create a [Badgecraft](https://www.badgecraft.eu/) account. After verification, your PREreview badges will appear in your badge wallet. You can then share your badge through a link in Linkedin, social media (please do tag us) or on your own personal website. At the end of the Champions program, after you complete your activities, you will receive the PREreview Champions badge.
 
 ## Workshops & Events
 Peer review plays a pivotal role in determining which research projects receive funding, which findings get published, and ultimately, which knowledge is disseminated and utilized by the scientific community and the broader public. Despite its critical importance, reviewers often undergo minimal training for this crucial task. Furthermore, that training rarely focuses on mitigating the biases that are ingrained in the peer review process. Hence, new generations of reviewers often lack the frameworks to address their biases, leading to a perpetuation of the current inequities in scholarly publishing.
