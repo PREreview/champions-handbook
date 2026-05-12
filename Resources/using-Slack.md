@@ -11,4 +11,4 @@ You can use Slack in a browser and download it to your desktop or phone. Here ar
  - Don’t feel you need to respond immediately to a message. Although Slack is a messaging application, interactions do not need to be synchronous, especially when we are working across a wide range of time zones.
  - Please respect the shared space and the other members of the channel, including in any private communication. Please abide by our [Code of Conduct](https://prereview.org/code-of-conduct) at all times. 
 
-For more information, please refer to the Center for Scientific Collaboration and Community Engagement. (2020) Slack quick start guide. Woodley and Pratt. doi: [10.5281/zenodo.3763730](http://dx.doi.org/10.5281/zenodo.3763730).
+For more information, please refer to the Center for Scientific Collaboration and Community Engagement. (2023) Slack quick start guide v3. Woodley, Maya and Pratt. doi: [https://zenodo.org/records/10411198).
