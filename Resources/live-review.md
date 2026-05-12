@@ -1,7 +1,7 @@
 # Live Reviews
 Live Reviews are topic-centered, interactive preprint review calls via a video conference tool such as Zoom. Outputs from Live Reviews can be used to improve a manuscript or be integrated into journal review workflows. 
 
-Core to PREreview's mission is increasing diversity, equity, and inclusion in scholarly peer review. Live Reviews allow structured and constructive discussions following guided discussion questions that encourage diverse methods of participation.
+Core to PREreview's mission is increasing diversity, equity, and inclusion in scholarly peer review. Live Reviews allow structured and constructive discussions following [guided discussion questions](https://zenodo.org/records/10207527) that encourage diverse methods of participation.
 
 ## Why Live Reviews?
   - To support and empower the voices of all the experts, particularly those who have historically been excluded from the peer review process and those who are in the beginning stages of their research careers
