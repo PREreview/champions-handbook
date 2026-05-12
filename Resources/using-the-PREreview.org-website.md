@@ -16,7 +16,7 @@ Currently supported preprint servers:
 
   - [Advance](https://advance.sagepub.com/)
   - [AfricArXiv](https://info.africarxiv.org/)
-  - [Arcadia Science Pubs](https://research.arcadiascience.com/all-pubs)
+  - [Arcadia Science Pubs](https://research.arcadiascience.com/)
   - [arXiv](https://arxiv.org/)
   - [Authorea](https://www.authorea.com/)
   - [bioRxiv](https://www.biorxiv.org/)
