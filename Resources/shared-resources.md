@@ -4,8 +4,8 @@ Please feel free to contribute to this list with links to other resources you th
 Peer Review:
 
  - [EASE Peer Review toolkit](https://ease.org.uk/communities/peer-review-committee/peer-review-toolkit/)
- - [PLOS Peer Review Center](https://plos.org/resources/for-reviewers/)(https://plos.org/resources/for-reviewers/)
- - [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)(https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
+ - [PLOS Peer Review Center](https://plos.org/resources/for-reviewers/)
+ - [COPE Ethical guidelines for peer reviewers](https://publicationethics.org/files/cope-ethical-guidelines-peer-reviewers-v2_0.pdf)
  - [‘Editorial Peer Reviewers as Shepherds, Rather Than Gatekeepers’](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4319)
  - [Okune, Angela. (2019). Self-Review of Citational Practice. Zenodo](https://doi.org/10.5281/zenodo.3066861)
 
