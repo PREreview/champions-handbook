@@ -14,7 +14,7 @@ Facilitation & Events:
  - [Open Peer Reviewers in Africa Workshop Trainer Guide](https://doi.org/10.5281/zenodo.7534278)
  - [Sansing, Chad. (2020). 5 Tips For Designing Engaging, Inclusive Sessions](https://foundation.mozilla.org/en/blog/5-tips-designing-engaging-inclusive-sessions/)
  - [Aurora, Valerie, and Gardiner, Mary. How to Respond to Code of Conduct Reports](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
- - [Ahenkorah, Elise (2020). “Safe and Brave Spaces Don’t Work (and What You Can Do Instead)”](https://frameshiftconsulting.com/resources/code-of-conduct-book/#book)
+ - [Ahenkorah, Elise (2020). “Safe and Brave Spaces Don’t Work (and What You Can Do Instead)”](https://medium.com/@elise.k.ahen/safe-and-brave-spaces-dont-work-and-what-you-can-do-instead-f265aa339aff)
  - [Harvard. Calling In and Calling Out Guide](https://edib.harvard.edu/files/dib/files/calling_in_and_calling_out_guide_v4.pdf?m=1625683246)
  - [Makled, Laila R. (2023). Impactful Gathering and Facilitation Resource Guide](https://outtherecommunication.net/blog/eventplanningworkbook)
  - [Makled, Laila R. (2023). The basics of an impactful agenda: structure & timing](https://outtherecommunication.net/blog/the-basics-of-an-impactful-agenda-structure-and-timing)
