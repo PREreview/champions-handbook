@@ -17,5 +17,6 @@ Zoom also has a lot of helpful online resources if you want to read more. They a
 
  - [Getting started guide for new users](https://support.zoom.us/hc/en-us/articles/360034967471-Getting-started-guide-for-new-users)
  - [Managing breakout rooms](https://support.zoom.us/hc/en-us/articles/206476313-Managing-breakout-rooms)
- - [Assigning polls and quizzes to specific meetings or webinars](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0073944)
+ - [Assigning polls to specific meetings](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066150)
+ - [Conducting quizzes in meetings](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0066403)
  - [Change your language on Zoom](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062475) 
