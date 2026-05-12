@@ -61,7 +61,7 @@ PREreview operates as a non-profit as a fiscally sponsored project of [Code for 
  - The [PREreview Community Slack](https://bit.ly/PREreview-Slack) is a great place for discussions about all things preprints and peer review, upcoming events, jobs, and opportunities, and to request feedback on your preprint or to share a review you have written.
  - Our [Blog](https://content.prereview.org/) is always a good place to go for news of new developments. If you have a good idea for a blog, you can always contact us and let us know!
  - Sign up for our [bi-monthly newsletter](https://bit.ly/PREreview-newsletter) to be kept in the loop about our big developments and opportunities.
- - You can also follow us on social media on [LinkedIn](https://www.linkedin.com/company/prereview), [Mastodon](https://mas.to/@prereview), and [BlueSky](https://bsky.app/profile/prereview.bsky.social), and subscribe to our [YouTube channel](https://youtube.com/@prereview7336?si=9UNLkwwYjz7KLlA5). 
+ - You can also follow us on social media on [LinkedIn](https://www.linkedin.com/company/prereview), [Mastodon](https://mas.to/@prereview), and [BlueSky](https://bsky.app/profile/prereview.bsky.social), and subscribe to our [YouTube channel](https://www.youtube.com/@Prereview). 
 
 
 
