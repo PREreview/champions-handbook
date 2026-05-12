@@ -22,7 +22,7 @@ Currently supported preprint servers:
   - [bioRxiv](https://www.biorxiv.org/)
   - [ChemRxiv](https://chemrxiv.org/engage/chemrxiv/public-dashboard)
   - [Curvenote](https://curvenote.dev/articles)
-  - [Dryad (for dataset reviews)](https://datadryad.org/)
+  - [Dryad](https://datadryad.org/) (for dataset reviews)
   - [EarthArXiv](https://eartharxiv.org/)
   - [EcoEvoRxiv](https://ecoevorxiv.org/)
   - [EdArXiv](https://edarxiv.org/)
@@ -38,17 +38,21 @@ Currently supported preprint servers:
   - [PsyArXiv](https://psyarxiv.com/)
   - [PsychArchives](https://psycharchives.org/)
   - [Research Square](https://www.researchsquare.com/)
-  - [SciELO](https://www.scielo.org/)
+  - [SciELO Data](https://data.scielo.org/) (for dataset reviews)
+  - [SciELO Preprints](https://preprints.scielo.org/index.php/scielo)
   - [ScienceOpen](https://www.scienceopen.com/)
   - [SocArXiv](https://osf.io/preprints/socarxiv)
   - [SSRN](https://www.ssrn.com/)
   - [TechRxiv](https://www.techrxiv.org/)
+  - [UMSIDA Preprints Server] (https://archive.umsida.ac.id/index.php/archive)
   - [VeriXiv](https://verixiv.org/)
   - [Zenodo](https://zenodo.org/)
 
 If you or someone in your community uses a preprint server that is not listed and you would like PREreview.org to support this, please let us know at help@prereview.org.
 
 ## Getting started with reviewing preprints
+![](https://github.com/PREreview/champions-handbook/blob/main/images/how-prereview-works-1.png)
+
 If you have a preprint in mind you would like to review, you can simply click ['Review a preprint'](https://prereview.org/review-a-preprint) and you will then be taken to a page asking you for the DOI of the preprint. Once you have entered that, it will ask you to log in or create an account if you have not already done so. Login is done via [ORCID](https://orcid.org/). If you do not have a preprint in mind, but you wish to create a PREreview account in advance, you can click on the 'Log in' button on the top right to create your account.
 
 Once you click the button, you’ll be guided through a helpful workflow that will help you complete your review. You’ll also have the option to start a Structured PREreview (with prompts from us), a Templated PREreview (with a basic, suggested framework from us), or a Freeform PREreview (with just a text box you can type in or copy/paste a PREreview you drafted elsewhere).
@@ -61,6 +65,6 @@ Our colleague Chad has recorded a [demo of the PREreview.org review workflow](ht
 
 Read more about [how to use PREreview.org](https://prereview.org/how-to-use). 
 
-![](https://github.com/PREreview/champions-handbook/blob/main/images/how-prereview-works-1.png)
+
 
 
